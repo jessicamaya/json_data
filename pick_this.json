@@ -1,12 +1,9 @@
 {
-    "one": 2,
-    "three": {
-        "point_1": "point_2",
-        "point_3": 3.4
-    },
-    "list": [
-        "one",
-        "two",
-        "three"
+    "nama": 'Jessica Maya',
+    "kelas": 'Pemrograman Website A',
+    "list_makanan": [
+        "Mi Ayam",
+        "Ayam Geprek",
+        "Nyam Nyam"
     ]
 }
